@@ -1,0 +1,9 @@
+{
+  "name": "love-page",
+  "version": "1.0.0",
+  "description": "Love page for Maram",
+  "scripts": {
+    "build": "echo 'No build step required'",
+    "start": "npx serve -s ."
+  }
+}
