@@ -1057,8 +1057,10 @@ body {
   transform: translateY(0);
 }
 
-.music-player-wrapper iframe {
+.music-player-wrapper audio {
+  width: 100%;
   border-radius: 12px;
+  outline: none;
 }
 
 /* ============================================
