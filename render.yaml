@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: love-page
+    env: static
+    buildCommand: ""
+    staticPublishPath: .
